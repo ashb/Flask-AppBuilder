@@ -36,7 +36,7 @@ Improvements and Bug fixes on 2.2.0
 Improvements and Bug fixes on 2.1.13
 ------------------------------------
 
-- Fix, #1105 Has access query fails on MySQL < 8
+- Fix, #1105 Has access query fails on MSSQL < 8
 
 Improvements and Bug fixes on 2.1.12
 ------------------------------------
